@@ -1,0 +1,10 @@
+1-Run the the welcomeFrame class or there is already a main method in controller class which call an object from welcome frame
+2- In the welcomeFrame you can right the players name and then you can choose the heros
+3- Then the window of the game appears 
+4- The current player his cards will be appeared and the opponent has flipped cards
+5- To play a card you just click on the card then its icon will appear on the left with a play card button 
+6- If it is  a minion it will played if a spell with general targets will be played if it is a spell with specific targets miniontarget or hero target a jpopupmenu will 
+     appear and choose target from it
+7- To attack just choose a minion from the field then a its icon appears in the right with a button to attack opponent hero if you then choose an opponent minion then 
+    an icon for the target will wppear beside the attacker and a button to attack the opp minion appear 
+8- After finishing the game a JOptionPane will appear revealing the winner name and the game will close.		 
